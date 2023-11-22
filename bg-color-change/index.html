@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>selector</title>
+</head>
+<style>
+  .select {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+  }
+
+  h1 {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+  }
+</style>
+
+<body>
+  <div class="select">
+    <select name="background" class="background" onchange="changeBackground()">
+      <option disabled selected="selected">Please select background color:</option>
+      <option value="grey">grey</option>
+      <option value="blue">blue</option>
+      <option value="green">green</option>
+      <option value="red">red</option>
+      <option value="brown">brown</option>
+      <option value="yellow">yellow</option>
+      <option value="beige">beige</option>
+    </select>
+  </div>
+  <h1>Hello, World!</h1>
+  <script src="index.js"></script>
+</body>
+
+</html>
