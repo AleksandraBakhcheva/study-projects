@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<style>
+  .ok {
+    background-color: white;
+    cursor: pointer;
+  }
+
+  .btn {
+    flex-direction: row;
+    margin-top: 1%;
+    padding: 1.5%;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .cancel {
+    background-color: grey;
+  }
+</style>
+
+<body>
+  <p class="text">Введите первое значение и нажмите ок:</p>
+  <label for="data">
+    <input class="data" type="text" name="data-added" id="data" />
+  </label>
+  <button class="ok">OK</button>
+  <div>
+    <button class="btn ready" type="button">Готово</button>
+    <button class="btn cancel" type="button">Отмена</button>
+  </div>
+  <div class="result1"></div>
+  <div class="result2"></div>
+  <script src="index.js"></script>
+</body>
+
+</html>
