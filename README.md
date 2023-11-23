@@ -28,6 +28,7 @@ Some of my small study projects
 ### Start React projects
 
 ```bash
+cd "target folder"
 npm install
 npm start
 ```
