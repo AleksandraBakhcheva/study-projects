@@ -17,7 +17,7 @@ function formatDate(x) {
     let day = date.getDate();
     let hour = date.getHours();
     let minute = date.getMinutes();
-    return `0${day}.0${month}.${year} ${hour}:${minute}`;
+    return `${day}.${month}.${year} ${hour}:${minute}`;
   }
 }
 
