@@ -21,8 +21,8 @@ Some of my small study projects 📖
 - fio-modification (dividing fio into parts)
 - form_post-method (form with validation using POST method)
 - github-projects-list (showing my github repos + 404 error handling)
-  -marvel-heroes (showing info about marvel-heroes + saving rating in localStorage)
-  -marvel-heroes_react (showing info about marvel-heroes in React)
+- marvel-heroes (showing info about marvel-heroes + saving rating in localStorage)
+- marvel-heroes_react (showing info about marvel-heroes in React)
 
 ### Stack
 
