@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  color: brown;
+}
+
+.container {
+  display: grid;
+  margin: 0 0 0 3%;
+  grid-template-rows: 1fr;
+  grid-template-columns: repeat(3, 1fr);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.picture {
+  width: 100%;
+}
+
+.superhero__card {
+  width: 90%;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    margin: 0 0 0 7%;
+    grid-template-columns: 1fr;
+  }
+}

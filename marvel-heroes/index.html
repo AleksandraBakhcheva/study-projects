@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Супергерои</title>
+</head>
+
+<style>
+  h1 {
+    text-align: center;
+    color: brown;
+  }
+
+  .container {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(3, 1fr);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .item {
+    margin-bottom: 3%;
+  }
+
+  .picture {
+    width: 100%;
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+
+  button {
+    width: 30%;
+    height: 5vh;
+    margin-top: 0.5%;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    background: rgb(205, 33, 33);
+    color: #000000;
+  }
+
+  @media screen and (max-width: 768px) {
+    .container {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<body>
+  <script src="index.js"></script>
+</body>
+
+</html>
