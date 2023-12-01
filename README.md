@@ -40,6 +40,7 @@ Some of my small study projects 📖
 ### Start React projects
 
 ```bash
+clone the project
 cd "target folder"
 npm install
 npm start
