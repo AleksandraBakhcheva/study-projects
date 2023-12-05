@@ -26,7 +26,7 @@ Some of my small study projects 📖
 - notes-storage (small form for creation new notes and saving them in localStorage)
 - page-template_flex (template page based on flexbox)
 - page-template_grid (template page based on grid)
-- registration-form-mosru_js-validation (from with js validation)
+- registration-form-mosru_js-validation (form with js validation)
 
 ### Stack
 
