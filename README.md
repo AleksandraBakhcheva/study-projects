@@ -24,6 +24,8 @@ Some of my small study projects 📖
 - marvel-heroes (showing info about marvel-heroes + saving rating in localStorage)
 - marvel-heroes_react (showing info about marvel-heroes in React)
 - notes-storage (small form for creation new notes and saving them in localStorage)
+- page-template_flex (template page based on flexbox)
+- page-template_grid (template page based on grid)
 
 ### Stack
 
