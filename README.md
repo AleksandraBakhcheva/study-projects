@@ -28,6 +28,7 @@ Some of my small study projects 📖
 - page-template_grid (template page based on grid)
 - registration-form-mosru_js-validation (form with js validation)
 - search-giphy_api (displays 5 gifs according to user request + 404 error handling)
+- slider (pictures slider)
 
 ### Stack
 
