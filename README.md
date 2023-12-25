@@ -29,6 +29,7 @@ Some of my small study projects 📖
 - registration-form-mosru_js-validation (form with js validation)
 - search-giphy_api (displays 5 gifs according to user request + 404 error handling)
 - slider (pictures slider)
+- solid-principles_typescript (examples of solid principles)
 
 ### Stack
 
