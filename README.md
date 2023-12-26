@@ -18,6 +18,7 @@ Some of my small study projects 📖
 - class-validator (classes used for validation)
 - comments (chat with messages in random colors)
 - date-format (formatting new Date)
+- dogs-cards_php (showing dogs cards based on array)
 - fio-modification (dividing fio into parts)
 - form_post-method (form with validation using POST method)
 - github-projects-list (showing my github repos + 404 error handling)
