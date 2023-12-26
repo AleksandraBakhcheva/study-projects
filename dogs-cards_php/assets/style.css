@@ -1,0 +1,51 @@
+.dogs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px;
+  gap: 20px;
+  font-size: 1.3rem;
+  background-color: #a9a9a9;
+}
+
+.dogs .dog {
+  min-height: max-content;
+  padding: 25px;
+  border-radius: 10px;
+  background-color: #678899;
+}
+
+.dogs .dog img {
+  width: 100%;
+  min-height: 45%;
+}
+
+.dogs .dog .phones span {
+  display: block;
+  margin-top: 5px;
+  padding: 5px 10px;
+  background-color: #a9a9a9;
+}
+
+.dogs .dog .address {
+  padding: 10px;
+  background-color: #a9a9a9;
+}
+
+.dogs .dog .address ul {
+  padding: 0;
+  list-style: none;
+}
+
+@media screen and (min-width: 601px) and (max-width: 1200px) {
+  .dogs {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .dogs {
+    grid-template-columns: 1fr;
+  }
+}
