@@ -37,7 +37,7 @@ Some of my small study projects 📖
 - React
 - TypeScript
 - JavaScript
-- Php
+- PHP
 - HTML5
 - CSS3
 - Scss
@@ -53,7 +53,7 @@ npm install
 npm start
 ```
 
-### Start Php projects
+### Start PHP projects
 
 ```bash
 Install XAMPP server on your system to be used as local server for project (lets say you installed it in 'K:\xampp_folder' folder)
