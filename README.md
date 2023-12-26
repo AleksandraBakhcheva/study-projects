@@ -40,7 +40,6 @@ Some of my small study projects 📖
 - PHP
 - HTML5
 - CSS3
-- Scss
 - Bootstrap
 - Chart.js
 
