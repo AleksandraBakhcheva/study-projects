@@ -1,0 +1,81 @@
+header,
+footer,
+.home-page,
+.news-page,
+.shop-page,
+.contacts-page,
+.about-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  border: solid 1px #000000;
+  border-radius: 100px;
+  background-color: #000000;
+}
+
+.logo a {
+  text-decoration: none;
+}
+
+.logo div {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  gap: 20px;
+  list-style: none;
+}
+
+nav ul li a {
+  font-size: 1.1rem;
+  text-decoration: none;
+  cursor: pointer;
+  color: #2b2a2a;
+}
+
+.home-page,
+.news-page,
+.shop-page,
+.contacts-page,
+.about-page {
+  background-color: #ffd700;
+}
+
+header {
+  background-color: #ffff99;
+}
+
+footer {
+  background-color: #cc7722;
+}
+
+footer p {
+  text-align: center;
+}
+
+@media (any-hover: hover) {
+  nav ul li a:hover {
+    background-color: #808080;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+}
