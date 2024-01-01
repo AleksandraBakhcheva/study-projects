@@ -21,6 +21,7 @@ Some of my small study projects 📖
 - dogs-cards_php (showing dogs cards based on array)
 - fio-modification (dividing fio into parts)
 - form_post-method (form with validation using POST method)
+- form-post_php (post form data + image)
 - github-projects-list (showing my github repos + 404 error handling)
 - marvel-heroes (showing info about marvel-heroes + saving rating in localStorage)
 - marvel-heroes_react (showing info about marvel-heroes in React)
