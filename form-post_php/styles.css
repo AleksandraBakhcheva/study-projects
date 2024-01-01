@@ -1,0 +1,31 @@
+h1,
+form,
+.user {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #7c7a77;
+}
+
+h1 {
+  text-align: center;
+  color: #a52a2a;
+  background-color: transparent;
+}
+
+form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.user img {
+  width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  form {
+    grid-template-columns: 1fr;
+  }
+}
