@@ -1,0 +1,42 @@
+.cars-list,
+.car-item {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  gap: 30px;
+  background-color: #919ea1;
+}
+
+.cars-list .car {
+  padding: 15px;
+  background-color: #769399;
+}
+
+.cars-list .car img,
+.car-item img {
+  width: 100%;
+}
+
+.button {
+  padding: 5px 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #3f7eb5;
+}
+
+@media screen and (max-width: 600px) {
+  .cars-list,
+  .car-item {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (any-hover: hover) {
+  .button:hover {
+    color: #3f7eb5;
+    background-color: #ffffff;
+  }
+}
