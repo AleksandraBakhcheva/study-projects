@@ -8,6 +8,7 @@ Some of my small study projects 📖
 - array-sum (shows array in ascending order + sum of elements)
 - bg-color-change (change body bg-color based on select)
 - bootstrap (bootstrap draft page)
+- car-details_php (shows list of cars and every car details)
 - car-price-calculator (calculates total price based on chosen options)
 - cat-form-validation-post-method (form async/await fetch POST)
 - chart-js-library (using chart.js library)
