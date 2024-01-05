@@ -17,6 +17,7 @@ Some of my small study projects 📖
 - class-calculator (calculator based on class)
 - class-cat (form submits data to class)
 - class-validator (classes used for validation)
+- clicker_javascript-redux-test (clicker based on Redux with tests)
 - comments (chat with messages in random colors)
 - date-format (formatting new Date)
 - dogs-cards_php (showing dogs cards based on array)
