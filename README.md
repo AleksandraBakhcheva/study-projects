@@ -4,6 +4,7 @@ Some of my small study projects 📖
 
 ### Content folders
 
+- action-creators_javascript-redux (examples of action-creators and persist in redux)
 - adaptive-responsive (different types of design based on grid)
 - array-sum (shows array in ascending order + sum of elements)
 - bg-color-change (change body bg-color based on select)
