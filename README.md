@@ -35,6 +35,7 @@ Some of my small study projects 📖
 - search-giphy-api (displays 5 gifs according to user request + 404 error handling)
 - slider (pictures slider)
 - solid-principles_typescript (examples of solid principles)
+- tariffs_react (ui for choosing one of tariffs)
 - website-template_php (template for basic structure website in php)
 
 ### Stack
