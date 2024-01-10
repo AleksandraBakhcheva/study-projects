@@ -1,0 +1,161 @@
+@import url(https://necolas.github.io/normalize.css/latest/normalize.css);
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+}
+
+#root {
+  max-width: 144rem;
+  margin: 0 auto;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  height: 100vh;
+  padding: 1%;
+  background-color: #d3d3d3;
+}
+
+.tariff {
+  width: 98%;
+  height: 70%;
+  margin: auto auto;
+  border-radius: 10px;
+}
+
+.tariff__header,
+.tariff__price,
+.tariff__option,
+.tariff__note {
+  display: flex;
+  height: 30%;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 5%;
+}
+
+.tariff__header {
+  padding: 2%;
+  font-size: 2rem;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.tariff__price {
+  font-size: 1.8rem;
+  color: #701111;
+}
+
+.tariff__currency {
+  padding-left: 2%;
+}
+
+.tariff__option {
+  height: 20%;
+  margin: 1%;
+  font-size: 1.2rem;
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+
+.tariff__note {
+  height: 20%;
+  font-size: 1.2rem;
+}
+
+.tariff__0 {
+  background-color: #7ca798;
+}
+
+.tariff__0 .tariff__header {
+  background-color: #32a77e;
+}
+
+.tariff__1 {
+  background-color: #c99e9f;
+}
+
+.tariff__1 .tariff__header {
+  background-color: #d05f61;
+}
+
+.tariff__2 {
+  background-color: #778899;
+}
+
+.tariff__2 .tariff__header {
+  background-color: #68819a;
+}
+
+.tariff__3 {
+  background-color: #b0c4de;
+}
+
+.tariff__3 .tariff__header {
+  background-color: #4588e1;
+}
+
+.selected {
+  height: 80%;
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    grid-template-columns: repeat(2, 1fr);
+    background-color: transparent;
+  }
+
+  .tariff {
+    width: 95%;
+    height: 99%;
+    margin: 0 auto;
+    border: 5px solid transparent;
+    border-radius: 0;
+  }
+
+  .tariff__header {
+    border-radius: 0;
+  }
+
+  .selected {
+    border: 5px solid #9c2121;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    grid-template-columns: repeat(1, 1fr);
+    height: auto;
+    gap: 3%;
+  }
+
+  .tariff {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto 40%;
+  }
+
+  .tariff__header {
+    font-size: 1.3rem;
+  }
+
+  .tariff__price {
+    font-size: 1.4rem;
+  }
+
+  .tariff__option,
+  .tariff__note {
+    font-size: 1rem;
+  }
+}
