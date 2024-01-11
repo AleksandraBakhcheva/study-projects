@@ -19,6 +19,7 @@ Some of my small study projects 📖
 - class-cat_javascript (form submits data to class)
 - class-validator_javascript (classes used for validation)
 - clicker_javascript-redux-test (clicker based on Redux with tests)
+- clicker_react-redux (clicker based on Redux)
 - comments_react (chat with messages in random colors)
 - date-format_javascript (formatting new Date)
 - dogs-cards_php (showing dogs cards based on array)
