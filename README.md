@@ -36,6 +36,7 @@ Some of my small study projects 📖
 - slider_javascript (pictures slider)
 - solid-principles_typescript (examples of solid principles)
 - tariffs_react (ui for choosing one of tariffs)
+- ten-random-numbers_javascript (displays random numbers on button click)
 - website-template_php (template for basic structure website in php)
 
 ### Stack
