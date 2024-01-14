@@ -4,7 +4,7 @@ Some of my small study projects 📖
 
 ### Content folders
 
-- action-creators_javascript-redux (examples of action-creators and persist in redux)
+- action-creators_javascript-redux (examples of action-creators and persist in Redux)
 - adaptive-responsive (different types of design based on grid)
 - array-sum_javascript (shows array in ascending order + sum of elements)
 - bg-color-change_javascript (change body bg-color based on select)
@@ -38,6 +38,7 @@ Some of my small study projects 📖
 - solid-principles_typescript (examples of solid principles)
 - tariffs_react (ui for choosing one of tariffs)
 - ten-random-numbers_javascript (displays random numbers on button click)
+- to-do-list_react-redux (todo list based on Redux)
 - website-template_php (template for basic structure website in php)
 
 ### Stack
