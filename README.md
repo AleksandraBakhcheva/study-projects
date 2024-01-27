@@ -23,6 +23,7 @@ Some of my small study projects 📖
 - comments_react (chat with messages in random colors)
 - date-format_javascript (formatting new date)
 - dogs-cards_php (showing dogs cards based on array)
+- filters-list_react-redux (filter list based on react-redux)
 - fio-modification_javascript (dividing fio into parts)
 - form-post_javascript (form with validation using post method)
 - form-post_php (post form data + image)
