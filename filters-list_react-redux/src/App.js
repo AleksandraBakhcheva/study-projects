@@ -1,4 +1,5 @@
 import NewTodo from "./components/NewTodo";
+import Filters from "./components/Filters";
 import TodoList from "./components/TodoList";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <h1>Filters List</h1>
       <NewTodo />
+      <Filters />
       <TodoList />
     </div>
   );
