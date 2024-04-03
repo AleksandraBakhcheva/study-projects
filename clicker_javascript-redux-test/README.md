@@ -1,9 +1,7 @@
 # Study project
-
 clicker_javascript-redux-test
 
-### Start project
-
+## Start app
 ```bash
 clone the project
 cd "target folder"
