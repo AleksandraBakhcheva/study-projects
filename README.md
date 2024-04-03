@@ -49,6 +49,7 @@ Some of my small study projects 📖
 - CSS3
 - Bootstrap
 - Chart.js
+- Lodash
 
 ## Start React projects
 ```bash
