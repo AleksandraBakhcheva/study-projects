@@ -1,9 +1,7 @@
 # Study project
-
 action-creators_javascript-redux
 
-### Start project
-
+## Start app
 ```bash
 clone the project
 cd "target folder"
