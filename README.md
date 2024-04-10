@@ -25,6 +25,7 @@ Some of my small study projects 📖
 - fio-modification_javascript (dividing fio into parts)
 - form-post_javascript (form with validation using post method)
 - form-post_php (post form data + image)
+- function-testing_javascript (mocha and chai libraries for testing of functions)
 - github-projects-list_javascript (showing my github repos + 404 error handling)
 - marvel-heroes_javascript (showing info about marvel-heroes in javascript + saving rating in localStorage)
 - marvel-heroes_react (showing info about marvel-heroes in react)
