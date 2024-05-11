@@ -27,6 +27,7 @@ Some of my small study projects 📖
 - form-post_php (post form data + image)
 - function-testing_javascript (mocha and chai libraries for testing of functions)
 - github-projects-list_javascript (showing my github repos + 404 error handling)
+- jsonplaceholder-api_redux-thunk (example of usage redux-thunk library based on api requests)
 - marvel-heroes_javascript (showing info about marvel-heroes in javascript + saving rating in localStorage)
 - marvel-heroes_react (showing info about marvel-heroes in react)
 - notes-storage_javascript (small form for creation new notes and saving them in localStorage)
